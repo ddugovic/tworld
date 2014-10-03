@@ -185,7 +185,7 @@ ChipEdit's home page is at:
 
   http://www.stage62.com/chipedit/chipedit.htm
 
-Finally, Tile World's home page is at:
+Finally, Tile World's home page (version 1.3.0) is at:
 
   http://www.muppetlabs.com/~breadbox/software/tworld/
 
@@ -202,11 +202,13 @@ included in this distribution in the file COPYING, for more details.
 
   Bugs
 
-Bug reports are always appreciated, and can be sent to the author at
-breadbox<at>muppetlabs.com<dot>com. The list of known bugs is at
+Please files issues under this project's issue tracker. The original author
+also appreciates bug reports for issues present in Tile World 1.3.0.
+Please visit Tile World's home page for more information.
+The list of known bugs is at
 http://www.muppetlabs.com/~breadbox/software/tworld/BUGS.html. Please check
-here before sending a bug report, to to make sure the bug has not already
-been documented.
+here before sending a bug report, to make sure the bug has not already been
+documented.
 
   Credits
 
